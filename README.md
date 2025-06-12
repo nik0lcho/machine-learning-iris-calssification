@@ -13,4 +13,22 @@ We build a model that classifies iris species based on flower measurements using
 - Clone the repo
 - Start a virtual environment
 - Install the requirements
+- Follow the project structure
+- Populate the raw directory with the csv file from the iris dataset
 - Run the notebook with `jupyter notebook notebooks/exploration.ipynb`
+
+## 📁 Project Structure
+
+```bash
+iris-classification/
+├── data/
+│   ├── processed/
+│   └── raw/
+├── notebooks/
+│   └── exploration.ipynb
+├── src/
+│   ├── data.py
+│   ├── features.py
+│   └── model.py
+├── README.md
+└── requirements.txt
