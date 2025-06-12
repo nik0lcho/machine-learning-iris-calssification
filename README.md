@@ -10,7 +10,7 @@ We build a model that classifies iris species based on flower measurements using
 - Evaluation with accuracy and confusion matrix
 
 ## 🚀 How to Run the Project
-- Clone the repo
+- Clone the repository
 - Start a virtual environment
 - Install the requirements
 - Follow the project structure
